@@ -1,0 +1,175 @@
+# ===================
+#        Java
+# ===================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+# ===================
+#    Build Output
+# ===================
+bin/
+dist/
+build/
+target/
+out/
+*.min.js
+*.map
+
+
+# ===================
+#       Maven
+# ===================
+.mvn/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+
+
+# ===================
+#       Gradle
+# ===================
+.gradle/
+build/
+
+
+# ===================
+#     Eclipse IDE
+# ===================
+.classpath
+.project
+.settings/
+bin/
+
+
+# ===================
+#    IntelliJ IDEA
+# ===================
+.idea/
+*.iml
+*.iws
+out/
+
+
+# ===================
+#    NetBeans IDE
+# ===================
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+# ===================
+#       VS Code
+# ===================
+.vscode/
+
+
+# ===================
+#  JavaScript / Web
+# ===================
+node_modules/
+npm-debug.log*
+yarn.lock
+yarn-debug.log*
+yarn-error.log*
+dist/
+coverage/
+*.map
+
+
+# ===================
+#     Environment
+# ===================
+.env
+!.env.example   # Keep example config
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+# ===================
+# GOpenAPI / Swagger
+# ===================
+
+# Client/Server SDKs generated from OpenAPI
+generated/
+api/
+client/
+server/
+docs/
+openapi-generated/
+openapi-client/
+openapi-server/
+
+# Postman collections or exports (optional)
+*.postman_collection.json
+
+# Stoplight Studio artifacts (if used)
+.vscode/stoplight/
+__generated__/
+*.spectral.yaml
+
+# OpenAPI generated files (adjust paths if needed)
+openapi.yaml
+openapi.json
+swagger.yaml
+swagger.json
+
+# ===================
+# General/Temporary
+# ===================
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+*.orig
+*.rej
+*.cache
+
+# JetBrains Rider / other IDEs
+.idea/
+*.sln
+*.user
+*.suo
+*.ncb
+
+
+# ===================
+#   OS System files
+# ===================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
