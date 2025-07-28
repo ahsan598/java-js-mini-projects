@@ -56,7 +56,7 @@ These projects reflect my ability to integrate **frontend and backend** componen
 > A classic Snake Game built using Java Swing. Developed to gain hands-on experience with event-driven programming and GUI design in Java.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c1c1b0c1-8c6e-4419-ad70-b342069a2197" alt="Snake Game" width="400"/>
+  <img src="https://github.com/user-attachments/assets/13cfc690-bd1b-441f-8d6c-71ac3ebc45d7" alt="Snake Game" width="400"/>
 </div>
 
 
@@ -66,7 +66,7 @@ These projects reflect my ability to integrate **frontend and backend** componen
 > A basic digital clock built in Java using Swing components. It displays the current system time and updates every second. Created for GUI programming practice.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9a26b2a8-89f6-4e36-a204-681dab14f724" alt="Digital Clock" width="400"/>
+  <img src="https://github.com/user-attachments/assets/3f6c87d1-acb1-4253-b147-3520b465ce7d" alt="Digital Clock" width="400"/>
 </div>
 
 
@@ -77,7 +77,7 @@ These projects reflect my ability to integrate **frontend and backend** componen
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e7f3fec4-270a-4c5e-bae0-66eee79af2fb" alt="Weather WebApp" width="400"/>
+  <img src="https://github.com/user-attachments/assets/967d775f-4843-4a92-a656-8fb5c8c7146d" alt="Weather WebApp" width="400"/>
 </div>
 
 
@@ -88,7 +88,7 @@ These projects reflect my ability to integrate **frontend and backend** componen
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/857cf152-537a-480b-93c3-03a82d6dedeb" alt="Virtual Keyboard" width="400"/>
+  <img src="https://github.com/user-attachments/assets/a49c3e88-fb3e-4331-9698-6a6bb54814ca" alt="Virtual Keyboard" width="400"/>
 </div>
 
 
@@ -99,7 +99,7 @@ These projects reflect my ability to integrate **frontend and backend** componen
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0893df1e-064b-4f7f-9e61-aaeaa6ff30dc" alt="Scientific Calculator" width="400"/>
+  <img src="https://github.com/user-attachments/assets/7fd30db9-32cf-4ab6-8414-3ff586cf815a" alt="Scientific Calculator" width="400"/>
 </div>
 
 
@@ -110,7 +110,7 @@ These projects reflect my ability to integrate **frontend and backend** componen
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c365d94-7e47-409d-a094-ddb1566465fa" alt="Student Management System" width="400"/>
+  <img src="https://github.com/user-attachments/assets/232ae6a4-0340-49c1-bd22-4e0ec21e4cfa" alt="Student Management System" width="400"/>
 </div>
 
 
@@ -121,7 +121,7 @@ These projects reflect my ability to integrate **frontend and backend** componen
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b69aa7c9-0c66-42b8-b8dc-4711714c282d" alt="Rock Paper Scissors" width="400"/>
+  <img src="https://github.com/user-attachments/assets/547dd768-eaf5-4f59-b45d-d7afbd49855e" alt="Rock Paper Scissors" width="400"/>
 </div>
 
 ---

@@ -97,6 +97,7 @@ yarn-error.log*
 dist/
 coverage/
 *.map
+config.js
 
 
 # ===================
@@ -111,7 +112,7 @@ coverage/
 
 
 # ===================
-# GOpenAPI / Swagger
+#  OpenAPI / Swagger
 # ===================
 
 # Client/Server SDKs generated from OpenAPI
@@ -139,7 +140,7 @@ swagger.yaml
 swagger.json
 
 # ===================
-# General/Temporary
+#  General/Temporary
 # ===================
 *.tmp
 *.bak
