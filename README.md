@@ -1,18 +1,18 @@
 # 🎓 Java Swing, JavaScript & MySQL Mini Projects (Graduation Practice)
 
-![Java](https://img.shields.io/badge/Java-Swing-red?logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-DOM-yellow?logo=javascript)
-![Mini Projects](https://img.shields.io/badge/Mini--Project-Graduation-Level--orange)
+![Java](https://img.shields.io/badge/Java-Swing-red?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-DOM-yellow?style=for-the-badge&logo=javascript)
+![Mini Projects](https://img.shields.io/badge/Mini--Project-Graduation-Level--orange?style=for-the-badge)
 
 
 ### 🎯 Project Overview
 
 This collection of **mini projects** was developed during my **graduation** practice to enhance my understanding of:
 
-- Building desktop applications using Java Swing
-- Connecting Java applications to MySQL using JDBC
-- Creating interactive frontend interfaces using JavaScript
-- Understanding full-stack development at a beginner level
+- Building desktop applications using **Java Swing**
+- Connecting **Java** applications to **MySQL** using **JDBC**
+- Creating interactive frontend interfaces using **JavaScript**
+- Understanding **full-stack** development at a beginner level
 
 These projects reflect my ability to integrate **frontend and backend** components, apply object-oriented principles, and follow real-world use cases.
 
@@ -33,7 +33,7 @@ These projects reflect my ability to integrate **frontend and backend** componen
 ### 📂 Project Structure
 
 ```sh
-/JS-Mini-Projects
+JS-Mini-Projects/
 ├── JAVA/
 │   ├── Student-Management-System/
 │   ├── Digital-Clock/
@@ -165,5 +165,5 @@ These projects reflect my ability to integrate **frontend and backend** componen
 - **MySQL** – Relational database design, CRUD operations, SQL joins
 - **HTML5 & CSS3** – Basic frontend structure and styling
 - **Connectivity**
- - Java JDBC (Java ↔ MySQL)
- - JavaScript ↔ Backend (if applicable)
+  - Java JDBC (Java ↔ MySQL)
+  - JavaScript ↔ Backend (if applicable)
