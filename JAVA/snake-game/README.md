@@ -21,7 +21,7 @@ The application uses a **single-window event-driven structure** with the followi
 
 - **Game Frame (`JFrame`)** – Main window container  
 - **Game Panel (`JPanel`)** – Core drawing surface for the snake and food  
-- **Game Loop (Thread)** – A separate thread continuously repaints the screen and updates game logic  
+- **Game Loop (`Thread`)** – A separate thread continuously repaints the screen and updates game logic  
 - **Input Handler** – Uses `KeyListener` to capture arrow key input  
 - **Collision & Score Logic** – Detects food consumption and game-over conditions  
 
@@ -70,7 +70,7 @@ java SnakeGame
 ### 📚 Key Concepts Explored
 
 - Real-time game development using Thread and Runnable
-- Java Swing components: JPanel, JFrame, KeyListener, Graphics
+- Java Swing components: `JPanel`, `JFrame`, `KeyListener`, `Graphics`
 - Collision detection logic (self and wall)
 - Dynamic object movement and boundary checks
 - Score calculation and game state management
@@ -81,7 +81,7 @@ java SnakeGame
 - Learned to use multithreading for smoother UI updates and game timing
 - Faced challenges in detecting collisions and managing game-over states
 - Improved control flow and modular design of real-time applications
-- Understood how repainting in Swing works (paintComponent() vs repaint())
+- Understood how repainting in Swing works (**paintComponent()** vs **repaint()**)
 
 
 ### 📝 Summary

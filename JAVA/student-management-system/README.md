@@ -20,7 +20,7 @@ A desktop-based application built using **Java Swing**, **JDBC**, and **MySQL** 
 The project follows a **layered architecture** combining the GUI, database logic, and control flow:
 
 - **UI Layer (Swing)**: Uses `JFrame`, `JPanel`, `JLabel`, `JTextField`, and `JButton` to build the form interface
-- **Database Layer (JDBC)**: Interacts with MySQL for executing SQL operations (insert, update, delete, select)
+- **Database Layer (JDBC)**: Interacts with MySQL for executing SQL operations (**insert, update, delete, select**)
 - **Control Flow**: Event listeners attached to buttons capture user actions and trigger corresponding database functions
 - **Exception Handling**: Catches SQL or connection errors and shows messages to the user
 

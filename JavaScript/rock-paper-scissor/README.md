@@ -57,7 +57,7 @@ rock-paper-scissors/
 
 1. **Clone or Download** this repository
 2. **Navigate to the folder** in your local machine
-3. **Open `index.html`** in any modern browser
+3. **Open** `index.html` in any modern browser
 
 ```bash
 open index.html   # macOS

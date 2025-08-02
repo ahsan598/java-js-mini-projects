@@ -66,7 +66,7 @@ java DigitalClock
 
 ### 📚 Key Concepts Explored
 
-- Swing components (JFrame, JLabel, Font, Timer)
+- Swing components (`JFrame`, `JLabel`, `Font`, `Timer`)
 - Real-time system time retrieval
 - Event-driven programming
 - GUI layout and window management

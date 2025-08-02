@@ -13,7 +13,7 @@ Designed as part of a Java GUI learning series, the project focuses on modular c
 
 - Create a GUI-based scientific calculator using Java Swing
 - Implement real-time mathematical operations through button events
-- Integrate custom calculators (like Speed–Distance–Time) using menus
+- Integrate custom calculators (like **Speed–Distance–Time**) using menus
 - Strengthen Java GUI skills through a modular approach
 
 
@@ -24,7 +24,7 @@ The application follows a **modular, event-driven architecture** commonly used i
 - **UI Layer:** Built using Java Swing components like `JFrame`, `JPanel`, `JButton`, `JTextField`, and `JMenuBar`. The UI is structured using nested panels to organize buttons and display fields.
 - **Event Handling:** All button clicks are handled via `ActionListener`, triggering different logic based on the source of the event.
 - **Computation Logic:** Calculator operations (basic and scientific) are performed using native Java methods (`Math.sin()`, `Math.pow()`, etc.). The Speed–Distance–Time calculator is implemented as a separate logic module under the menu.
-- **Menu System:** A `JMenuBar` is used to integrate additional tools like Speed–Distance–Time within the same application context.
+- **Menu System:** A `JMenuBar` is used to integrate additional tools like **Speed–Distance–Time** within the same application context.
 
 This separation ensures clarity between the **interface**, **logic**, and **event handling**, making the code more maintainable and scalable.
 

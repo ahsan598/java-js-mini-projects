@@ -31,7 +31,7 @@ This browser-based **Weather Application** allows users to search for any city a
 
 ```sh
 weather-webapp/
-├── images/             # Images used in the game
+├── images/           # Images used in the game
 ├── app.html          # Main HTML structure
 ├── app.css           # Styling and background logic
 ├── app.js            # API logic and UI interaction
@@ -57,11 +57,11 @@ weather-webapp/
 
 1. **Clone or Download** this repository
 2. **Navigate to the folder** in your local machine
-3. Replace the placeholder **API key in `app.js`** with your own from OpenWeatherMap:
+3. Replace the placeholder **API key** in `app.js` with your own from OpenWeatherMap:
    ```sh
    const apiKey = "YOUR_API_KEY_HERE";
    ```
-4. **Open `app.html`** in any modern browser
+4. **Open** `app.html` in any modern browser
 
 ```bash
 open app.html   # macOS
