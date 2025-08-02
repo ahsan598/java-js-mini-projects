@@ -1,8 +1,8 @@
 # 🎓 Java Swing, JavaScript & MySQL Mini Projects (Graduation Practice)
 
 ![Java](https://img.shields.io/badge/Java-Swing-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-DOM-yellow?style=for-the-badge&logo=javascript)
-![Mini Projects](https://img.shields.io/badge/Mini--Project-Graduation-Level--orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-DOM-orange?style=for-the-badge&logo=javascript)
+![Mini Projects](https://img.shields.io/badge/Mini--Project-Graduation-Level--steelblue?style=for-the-badge)
 
 
 ### 🎯 Project Overview
