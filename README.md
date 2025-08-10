@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Graduation Project](https://img.shields.io/badge/Graduation_Project-steelblue?style=for-the-badge&logo=academic-cap&logoColor=white)
+![Mini Projects](https://img.shields.io/badge/Mini--Project-Graduation-steelblue?style=for-the-badge)
 
 
 ### 🎯 Project Overview
