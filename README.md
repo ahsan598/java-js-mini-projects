@@ -1,13 +1,9 @@
-# 🎓 Java Swing, JavaScript & MySQL Mini Projects (Graduation Practice)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Mini Projects](https://img.shields.io/badge/Mini--Project-Graduation-steelblue?style=for-the-badge)
+# 🎓 Java Swing, JavaScript & MySQL Mini Projects
 
 
 ### 🎯 Project Overview
 
-This collection of **mini projects** was developed during my **graduation** practice to enhance my understanding of:
+This collection of **mini projects** was practiced to enhance my understanding of:
 
 - Building desktop applications using **Java Swing**
 - Connecting **Java** applications to **MySQL** using **JDBC**
